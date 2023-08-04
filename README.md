@@ -1,6 +1,6 @@
-# IOE-MINI-PROJECT
-
 # Smart Agriculture Monitoring and Irrigation System
+
+This Project is a part of my Bachelors degree.
 
 Internet of Everything has brought revolution to each field of common man’s life. The 
 development of Intelligent Smart Agriculture IoT based devices is day by day turning the face of 
